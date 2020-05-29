@@ -1,6 +1,6 @@
 pragma solidity ^0.5.9;
 
-contract IGTI {
+contract ARNALDO {
     string public objetivo;
     
     constructor (string memory _objetivo) public {
